@@ -34,3 +34,4 @@ CCGetOnTheBoat:<br>
 CCGetOffTheBoat:<br>
 ![](https://github.com/flashowner/third3DHomework/blob/master/%E6%88%AA%E5%9B%BE/%E6%8D%95%E8%8E%B75.PNG)<br>
 CCRunTheBoat:<br>
+![](https://github.com/flashowner/third3DHomework/blob/master/%E6%88%AA%E5%9B%BE/%E6%8D%95%E8%8E%B76.PNG)<br>
