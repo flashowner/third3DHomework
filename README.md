@@ -30,5 +30,7 @@
 我从FirstController中提取出了上船动作CCGetOnTheBoat下船动作CCGetOffTheBoat和船的移动动作CCRunBoat<br>
 使得FirstController不用去考虑动作是如何实现的，部分代码如下所示：<br>
 CCGetOnTheBoat:<br>
-![](https://github.com/flashowner/third3DHomework/blob/master/%E6%88%AA%E5%9B%BE/%E6%8D%95%E8%8E%B74.PNG)
+![](https://github.com/flashowner/third3DHomework/blob/master/%E6%88%AA%E5%9B%BE/%E6%8D%95%E8%8E%B74.PNG)<br>
 CCGetOffTheBoat:<br>
+![](https://github.com/flashowner/third3DHomework/blob/master/%E6%88%AA%E5%9B%BE/%E6%8D%95%E8%8E%B75.PNG)<br>
+CCRunTheBoat:<br>
