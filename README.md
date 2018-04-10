@@ -25,4 +25,7 @@
 ### 2. 编程实践
 * 牧师与魔鬼 动作分离版
 由于上次做的牧师与魔鬼主要是用过GUI界面完成各种动作的，所以才拆分动作的时候就不如用鼠标点击那么好拆分<br>
-这次游戏的UML图如图所示：
+这次游戏的UML图如图所示：<br>
+![](https://github.com/flashowner/third3DHomework/blob/master/%E6%88%AA%E5%9B%BE/%E6%8D%95%E8%8E%B73.PNG)
+我从FirstController中提取出了上船动作CCGetOnTheBoat下船动作CCGetOffTheBoat和船的移动动作CCRunBoat<br>
+使得FirstController不用去考虑动作是如何实现的，部分代码如下所示：<br>
